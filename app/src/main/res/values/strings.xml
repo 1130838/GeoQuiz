@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="question">question</string>
+    <string name="btn_true">TRUE</string>
+    <string name="btn_false">FALSE</string>
+    <string name="previousQuestion">Previous</string>
+    <string name="nextQuestion">Next</string>
+
+    <string name="question_1">Russian girls are the best</string>
+    <string name="question_2">Portuguese girls dont make blowjobs</string>
+    <string name="question_3">Russian girls are dedicated</string>
+    <string name="question_4">Russian girls are feminine</string>
+    <string name="question_5">Portuguese girls are the masculine</string>
+
+    <string name="questionCounting">Question %1$d of %2$d</string>
+    <string name="question_hint">Question %1$d of %2$d</string>
+    <string name="finalResult">Quiz Result: Correct Questions: %1$d / %2$d.</string>
+
+</resources>
