@@ -7,14 +7,14 @@
     <string name="previousQuestion">Previous</string>
     <string name="nextQuestion">Next</string>
 
-    <string name="question_1">Russian girls are the best</string>
-    <string name="question_2">Portuguese girls dont make blowjobs</string>
-    <string name="question_3">Russian girls are dedicated</string>
-    <string name="question_4">Russian girls are feminine</string>
-    <string name="question_5">Portuguese girls are the masculine</string>
+    <string name="question_1">Fartech is waste of time</string>
+    <string name="question_2">Corga is useful discupline</string>
+    <string name="question_3">PL Teacher is bangable</string>
+    <string name="question_4">Corga will be useful for the future</string>
+    <string name="question_5">Pl teacher has new haircut</string>
 
     <string name="questionCounting">Question %1$d of %2$d</string>
     <string name="question_hint">Question %1$d of %2$d</string>
-    <string name="finalResult">Quiz Result: Correct Questions: %1$d / %2$d.</string>
+    <string name="finalResult">Quiz Result: Answered: %1$d | Correct: %2$d  Total %3$d </string>
 
 </resources>
